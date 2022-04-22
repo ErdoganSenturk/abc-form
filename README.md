@@ -1,3 +1,3 @@
 # Contact-form
 abc formu
-[click for preview the page](https://github.com/ErdoganSenturk/abc-form.git)
+[click for preview the page](https://ErdoganSenturk.github.io/Contact-form/)
