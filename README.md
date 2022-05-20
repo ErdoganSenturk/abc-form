@@ -1,2 +1,3 @@
 # abc-form
-[Click here!]( https://erdogansenturk.github.io/abc-form/)
+abc form
+[click for preview the page](https://erdogansenturk.github.io/abc-form/)
